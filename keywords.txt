@@ -1,0 +1,16 @@
+StembotixOTA	KEYWORD1
+OTA	KEYWORD1
+begin	KEYWORD2
+loop	KEYWORD2
+onOtaMode	KEYWORD2
+setButton	KEYWORD2
+setLed	KEYWORD2
+setHoldTime	KEYWORD2
+setHotspotPassword	KEYWORD2
+setCheckInterval	KEYWORD2
+setWiFi	KEYWORD2
+startOtaMode	KEYWORD2
+startWiFiSetup	KEYWORD2
+forgetWiFi	KEYWORD2
+isOtaMode	KEYWORD2
+version	KEYWORD2
